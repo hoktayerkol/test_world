@@ -1,0 +1,186 @@
+material qrs/Diffuse0
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture fff.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse1
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st1.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse2
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st2.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse3
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st3.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse4
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st4.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse5
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st5.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse6
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st6.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse7
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st7.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse8
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st8.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse9
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st9.png
+                scale 1 1
+            }
+        }
+    }
+
+}
+
+material qrs/Diffuse10
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture st10.png
+                scale 1 1
+            }
+        }
+    }
+
+}

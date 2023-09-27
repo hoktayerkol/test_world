@@ -1,0 +1,2 @@
+export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/home/oktay/bookros2_ws/src/my_prj/test_world/models
+gazebo --verbose ~/color_tutorial/lit_world.world
